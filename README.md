@@ -31,7 +31,7 @@ Affiche le tableau de bord du projet
 ```
  ouvrez un navigateur et accédez à l'URL "http://localhost/copie_site/wp-admin"
  ```
- Pour vous connecter en tant qu'administrateur:,
+ Pour vous connecter en tant qu'administrateur:
  ```
  username : admin
  password : admin
